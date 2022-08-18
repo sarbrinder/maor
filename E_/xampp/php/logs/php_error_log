@@ -1,0 +1,1 @@
+[28-Jul-2022 10:32:11 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\DB as DB because the name is already in use in /home/wldhzlxq/public_html/maor/app/Http/Controllers/BayController.php on line 9
